@@ -1,2 +1,2 @@
 # python-backdoor
-A simple python backdoor with socket programming
+A simple python backdoor with python socket programming
